@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Currently learning java<br>
+Hi, I'm a passionate developer who enjoys exploring diverse areas of programming, ranging from computer graphics to web development and data visualization. I love building mathematical and visual tools, such as lightweight 3D graphics rendering engines in Python and Java that handle perspective projection, rotations, and matrix transformations.
+
+I also build practical, user-facing web applications. Recently, I developed a fully functional QR-based file and text sharing platform utilizing HTML, CSS, and JavaScript. On the scripting side, I frequently create handy command-line utilities. Some of my recent Python work includes a highly customizable password generator and an interactive Cartesian plane plotter that visualizes linear equations using Matplotlib and NumPy. I'm always eager to learn new technologies and bring creative ideas to life!<br>
 
 
 # 💻 Tech Stack:
