@@ -1,22 +1,26 @@
 # 💫 About Me:
-Hi, I'm a passionate developer who enjoys exploring diverse areas of programming, ranging from computer graphics to web development and data visualization. I love building mathematical and visual tools, such as lightweight 3D graphics rendering engines in Python and Java that handle perspective projection, rotations, and matrix transformations.
+Hi there! I'm a passionate software developer with a strong focus on applied machine learning, AI integrations, and building tools from scratch. 
 
-I also build practical, user-facing web applications. Recently, I developed a fully functional QR-based file and text sharing platform utilizing HTML, CSS, and JavaScript. On the scripting side, I frequently create handy command-line utilities. Some of my recent Python work includes a highly customizable password generator and an interactive Cartesian plane plotter that visualizes linear equations using Matplotlib and NumPy. I'm always eager to learn new technologies and bring creative ideas to life!<br>
+- 🔭 I’m currently working on making a basic **chat with PDF application**.
+- 💡 I enjoy building a wide variety of projects, from custom **3D rendering engines** to predictive data APIs.
+- 🚀 My notable projects include an **Election Analyser** (FastAPI/ML predictive engine), an **AI File Organizer** powered by local LLMs (Ollama), and a **Basic-3D Engine** built entirely without external 3D libraries.
+- 🌱 I’m currently exploring Local Large Language Models (LLMs), function-calling architectures, and computer graphics mathematics.
+- ⚡ Fun fact: I once built an AI calculator that solves arithmetic problems by treating math equations as NLP text classification tasks!
 
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-singh-39a19b381/) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Octahedron-apple&theme=dracula)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Octahedron-apple&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Octahedron-apple&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Octahedron-apple&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Octahedron-apple&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Octahedron-apple&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Octahedron-apple&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Octahedron-apple&style=flat-square&color=blue)](https://github.com/Octahedron-apple)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=Octahedron-apple&icon=0&color=3)](https://visitcount.itsvg.in)
