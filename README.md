@@ -23,4 +23,4 @@ Hi there! I'm a passionate software developer with a strong focus on applied mac
 ![](https://github-contributor-stats.vercel.app/api?username=Octahedron-apple&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Octahedron-apple&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Octahedron-apple&icon=0&color=blue)](https://visitcount.itsvg.in)
