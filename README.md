@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi there! I'm a passionate software developer with a strong focus on applied machine learning, AI integrations, and building tools from scratch. 
 
-- 🔭 I’m currently working on making a basic **chat with PDF application**.
-- 💡 I enjoy building a wide variety of projects, from custom **3D rendering engines** to predictive data APIs.
-- 🚀 My notable projects include an **Election Analyser** (FastAPI/ML predictive engine), an **AI File Organizer** powered by local LLMs (Ollama), and a **Basic-3D Engine** built entirely without external 3D libraries.
-- 🌱 I’m currently exploring Local Large Language Models (LLMs), function-calling architectures, and computer graphics mathematics.
-- ⚡ Fun fact: I once built an AI calculator that solves arithmetic problems by treating math equations as NLP text classification tasks!
+* 🔭 I’m currently working on making a basic **chat with PDF application**.
+* 💡 I enjoy building a wide variety of projects, from custom **3D rendering engines** to predictive data APIs.
+* 🚀 My notable projects include an **Election Analyser** (FastAPI/ML predictive engine), an **AI File Organizer** powered by local LLMs (Ollama), and a **Basic-3D Engine** built entirely without external 3D libraries.
+* 🌱 I’m currently exploring Local Large Language Models (LLMs), function-calling architectures, and computer graphics mathematics.
+* ⚡ Fun fact: I once built an AI calculator that solves arithmetic problems by treating math equations as NLP text classification tasks!
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-singh-39a19b381/) 
