@@ -15,7 +15,7 @@ Hi there! I'm a passionate software developer with a strong focus on applied mac
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Octahedron-apple&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=Octahedron-apple&theme=dark&include_all_commits=true&count_private=true&v=1)
 ![](https://streak-stats.demolab.com/?user=Octahedron-apple&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Octahedron-apple&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
