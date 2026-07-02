@@ -18,6 +18,7 @@ Hi there! I'm a passionate software developer with a strong focus on applied mac
 ![GitHub stats](https://github-readme-stats.shion.dev/api?username=Octahedron-apple&theme=dark&include_all_commits=true&count_private=true&v=1)
 ![](https://streak-stats.demolab.com/?user=Octahedron-apple&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Octahedron-apple&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Octahedron-apple's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Octahedron-apple&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Octahedron-apple&limit=5&theme=dark&combine_all_yearly_contributions=true)
