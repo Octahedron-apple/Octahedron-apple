@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi there. I'm a software developer with a strong focus on AI integrations and building tools from scratch. 
+Hi there. I'm a software developer with a strong focus on AI integrations and crafting custom tooling. 
 
 ### 🎯 What I Do
 I build a wide variety of projects, from agentic tooling and custom **3D rendering engines** to CLI utilities (usually working from my NixOS setup).
 
 ### 🧪 My Approach to Code
-I take engineering seriously, especially reliability. I'm a staunch advocate for **Test-Driven Development (TDD)**. Every piece of logic I write is backed by a comprehensive suite of tests before reaching production. If it isn't thoroughly tested and mathematically sound, it isn't finished.
+I value software reliability and aim to write maintainable, robust code. I practice **Test-Driven Development (TDD)** to help ensure that my logic is well-tested before it reaches production.
 
 ### 🔭 AI Ecosystem
 I built an autonomous **AI Agent ecosystem** combining [**Linerun**](https://github.com/Octahedron-apple/LineRun) (a sandboxed code runner), [**DotDB**](https://github.com/Octahedron-apple/DotDB) (a local vector database), and [**PlaneMCP**](https://github.com/Octahedron-apple/PlaneMCP) for tool integration.
